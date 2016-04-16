@@ -1,0 +1,14 @@
+.superMan {
+    height: 200px;
+    weight: 200px;
+    display: inline-block;
+    position: relative;
+    visibility: visible;
+}
+
+.someTransition {
+    -moz-transition: top 200ms linear;
+    -webkit-transition: top 200ms linear;
+    -ms-transition: top 200ms linear;
+    -o-transition: top 200ms linear; 
+}
